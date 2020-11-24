@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/action_refresh"
+          android:icon="@drawable/ic_action_refresh"
+          android:title="@string/action_refresh"
+          android:showAsAction="never"/>
+    <item android:id="@+id/action_removentify"
+          android:icon="@drawable/ic_action_remove"
+          android:title="@string/action_removentify"
+          android:showAsAction="never"/>
+    <item android:id="@+id/action_export"
+          android:icon="@drawable/ic_action_import_export"
+          android:title="@string/action_export"
+          android:showAsAction="never"/>
+
+    <item android:id="@+id/action_about"
+          android:icon="@drawable/ic_action_about"
+          android:title="@string/action_about"
+          android:showAsAction="never"/>
+    <item android:id="@+id/action_stop"
+          android:icon="@drawable/ic_action_cancel"
+          android:title="@string/action_stop"
+          android:showAsAction="never"/>
+
+
+</menu>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent" android:layout_height="match_parent"
+            xmlns:android="http://schemas.android.com/apk/res/android">
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent" android:weightSum="1">
+
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="This is the page where wil tel you about us project 2015"
+            android:id="@+id/textView" android:layout_gravity="center_horizontal" android:textStyle="bold"
+            android:layout_weight="0.06"/>
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="About Our App"
+            android:id="@+id/textView10" android:layout_gravity="center_horizontal" android:layout_marginTop="10dp"
+            android:textStyle="bold"/>
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Its a simple app to tack your mobile and wifi data usage on daily basis ,gives you usage amount for last 30 days and also last 7 days. We provide easy report exporting of your usage to csv,pdf."
+            android:id="@+id/textView11" android:layout_gravity="center_horizontal"
+            android:textStyle="normal" android:textAlignment="center" android:singleLine="false"
+            />
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Project Members"
+            android:id="@+id/textView4" android:layout_gravity="center_horizontal" android:layout_marginTop="10dp"
+            android:textStyle="bold"/>
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Rahul Dcosta"
+            android:id="@+id/textView5" android:layout_gravity="center_horizontal" android:layout_marginTop="10dp"/>
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Nandesh Naik"
+            android:id="@+id/textView6" android:layout_gravity="center_horizontal"/>
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Shirish Parsekar"
+            android:id="@+id/textView7" android:layout_gravity="center_horizontal"/>
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Gaurav Tiwari"
+            android:id="@+id/textView8" android:layout_gravity="center_horizontal"/>
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Laxmikant Salgaonkar"
+            android:id="@+id/textView9" android:layout_gravity="center_horizontal"/>
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Copyrights"
+            android:id="@+id/textView12" android:layout_gravity="center_horizontal" android:layout_marginTop="15dp"
+            android:textStyle="bold"/>
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Net Monitor The App Pvt. Ltd 2015"
+            android:id="@+id/textView13" android:layout_gravity="center_horizontal" android:layout_marginTop="10dp"/>
+</LinearLayout>
+</ScrollView>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Net Monitor</string>
+
+    <string name="action_refresh">Reset Stats</string>
+
+    <string name="action_about">About Us</string>
+    <string name="action_export">Export Report</string>
+    <string name="action_removentify">Disable Notification</string>
+    <string name="action_enablentify">Enable Notification</string>
+    <string name="action_stop">Stop and Exit</string>
+</resources>
